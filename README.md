@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianjoekennedy
 - 👀 I’m interested in ... front-end development.
-- 🌱 I’m currently learning ... JAVA
+- 🌱 I’m currently learning ... JAVA.
 - 💞️ I’m looking to collaborate on ... web design.
 - 📫 How to reach me ... twitter.
 
