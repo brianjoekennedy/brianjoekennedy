@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianjoekennedy
 - 👀 I’m interested in ... front-end development.
-- 🌱 I’m currently learning ... PYTHON.
-- 💞️ I’m looking to collaborate on ... web design.
+- 🌱 I’m currently learning ... game development.
+- 💞️ I’m looking to collaborate on ... game creation.
 - 📫 How to reach me ... twitter.
 
 <!---
